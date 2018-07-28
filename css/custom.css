@@ -1,0 +1,135 @@
+.image-width-full {
+  width: 100%;
+}
+
+.text-glow {
+  text-shadow: #fff 0 0 5px;
+}
+
+.text-glow-2 {
+  text-shadow: #fff 0 0 15px;
+}
+
+.text-shadow {
+  text-shadow: #000 0 0 25px;
+}
+
+.text-shadow-2 {
+  text-shadow: #808080 0 0 25px;
+}
+
+.text-shadow-3 {
+  text-shadow: #000	0 0 3px;
+}
+
+.txt-center {
+  text-align: center
+}
+
+.txt-right {
+  text-align: right
+}
+
+.cursor-d {
+  cursor: url("../img/default.cur"), default;
+}
+
+.cursor-e {
+  cursor: url("../img/engine.cur"), e-resize;
+}
+
+.cursor-m {
+  cursor: url("../img/gmaps.cur"), pointer !important;
+}
+
+.cursor-b {
+  cursor: url("../img/pointer.cur"), pointer !important;
+}
+
+.cursor-p a:link {
+  cursor: url("../img/pointer.cur"), pointer;
+}
+
+.cursor-t {
+  cursor: url("../img/text.cur"), text;
+}
+
+.margin-top-a {
+  margin-top: 100px
+}
+
+.margin-bottom-a {
+  margin-bottom: 100px
+}
+
+.padding-top-icon {
+  padding-top: 8px
+}
+
+.padding-top-a {
+  padding-top: 100px
+}
+
+.padding-bottom-a {
+  padding-bottom: 50px
+}
+
+.padding-bottom-b {
+  padding-bottom: 100px
+}
+
+.user-select {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.intro-table-directions {
+	background-color: rgba(255,255,255,0.6);
+}
+
+.intro-table-directions:hover {
+	background-color: rgba(255,255,255,0.9);
+}
+
+.pattern-img-1 {
+	background: linear-gradient(
+		to left,
+		rgba(255,255,255,0.9),
+		rgba(255,255,255,0.4),
+		rgba(255,255,255,0.9)),
+		url('../img/pattern-1.jpg');
+	background-repeat: repeat;
+	background-position: top left;
+	background-attachment: fixed;
+	background-position: top left;
+	color: transparent;
+}
+
+.pattern-img-2 {
+	background: linear-gradient(
+		to left,
+		rgba(28,36,59,0.9),
+		rgba(28,36,59,0.4),
+		rgba(28,36,59,0.9)),
+		url('../img/pattern-2.jpg');
+	background-repeat: repeat;
+	background-position: top left;
+	background-attachment: fixed;
+	background-position: top left;
+	color: transparent;
+}
+
+.pattern-img-3 {
+	background: linear-gradient(
+		to left,
+		rgba(255,255,255,0.5),
+		rgba(255,255,255,0.0),
+		rgba(255,255,255,0.5)),
+		url('../img/pattern-1.jpg');
+	background-repeat: repeat;
+	background-position: top left;
+	background-attachment: fixed;
+	background-position: top left;
+	color: transparent;
+}
